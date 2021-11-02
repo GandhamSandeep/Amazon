@@ -1,0 +1,57 @@
+
+#width{
+    width: 18rem;
+    height: 30rem;
+}
+#img{
+    width: 200px;
+    height: 30px;
+}
+#account{
+    margin-left: -154px;
+    margin-top: 20px;
+    font-size: 17px;
+}
+#your{
+    margin-left: -214px;
+    font-size: 9px;
+}
+#text2{
+    width: 16rem;
+    margin-left: 14px;
+    margin-top: -14px;
+}
+#Mobile{
+    margin-top: 11px;
+    margin-left: -192px;
+    font-size: 9px;
+}
+#Mobile2{
+    margin-top: 11px;
+    margin-left: -216px;
+    font-size: 9px;
+}
+#Mobilev{
+    margin-top: 0px;
+    margin-left: -94px;
+    font-size: 9px;
+}
+#Mobile5{
+    margin-left: -0px;
+    font-size: 10px
+}
+#Account{
+    width: 16rem;
+    margin-left: 16px;
+    border-radius: 10px;
+    background-color: gold;
+    margin-top: 24px;
+}
+#signin{
+    font-size: 12px;
+    margin-top: 26px;
+}
+#signin2{
+    font-size: 12px;
+    margin-top: -13px;
+}

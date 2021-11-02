@@ -1,0 +1,53 @@
+#img{
+    width: 200px;
+    height: 30px;
+}
+#card{
+    width: 18rem;
+    height: 16rem;
+}
+#h2{
+    font-size: 20px;
+    margin-left: -200px;
+}
+#size{
+    font-size: 11px;
+    margin-left: -97px;
+    margin-top: 19px;
+}
+#length{
+    width: 16rem;
+}
+#button9{
+    width: 16rem;
+    color: black;
+    background-color: gold;
+    margin-top: 10px;
+    border-radius: 20px
+
+}
+#size2{
+    font-size: 11px;
+    margin-left: -5px;
+    margin-top: 19px;
+}
+#left{
+    margin-left: -186px;
+    font-size: smaller;
+    font-family: auto;
+}
+#new{
+    font-size: small;
+}
+#create{
+    width: 18rem;
+    background-color: silver;
+    color: black;
+    border-radius: 10px;
+}
+#ul{
+    font-size: 10px;
+}
+#create1{
+    margin-left: -20px;
+}

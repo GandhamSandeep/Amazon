@@ -1,0 +1,398 @@
+
+
+#height1{
+    background-color: darkslategrey;
+    height: 30px;   
+}
+#ww{
+    width: 33px;
+    height:33px;
+}
+#width5{
+    width: 50px;
+    height: 400px;
+}
+#left{
+    margin-right: -5px;
+}
+#width8{
+    width: 15rem;
+    height: 20rem;
+}
+#imgwidth1{
+    width: 107px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 17px;
+}
+#imgwidth2{
+    width: 107px;
+    height: 80px;
+    margin-top: -107px;
+    margin-left: 127px;
+}
+#imgwidth3{
+    width: 107px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 17px;
+}
+#imgwidth4{
+    width: 107px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 17px;
+}
+#nav1{
+    height: 50px;
+
+}
+#button{
+    width: 100px;
+    height: 30px;
+    margin-top: 7px;
+}
+#white{
+    color: white;
+    margin-top: 10px;
+}
+#loc{
+    margin-top: 0px;
+    color: white;
+    margin-inline: 10px;
+    
+}
+#font{
+    margin-top: 14px;
+    font-size: 10px;
+    color: white;
+    margin-inline: -10px;
+}
+#all{
+    font-size: 15px;
+    width: 40px;
+    height: 33px;
+    margin-inline: 32px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+#search{
+    width: 378px;
+    height: 35px;
+    margin-left: -33px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+
+}
+#icon{
+    width: 34px;
+    height: 25px;
+    margin-left: -34px;
+}
+#flag{
+    width: 30px;
+    height: 28px;
+    margin-inline: 26px;
+}
+#iocn2{
+    width: 20px;
+    height: 16px;
+    color: white;
+    margin-left: -26px;
+    margin-top: 18px;
+
+}
+#sign{
+    color: white;
+    font-size: 11px;
+    margin-top: 17px;
+    margin-inline: 10px;
+}
+#icon5{
+    width: 24px;
+    height: 17px;
+    color: white;
+    margin-top: 20px;
+    margin-inline: -12px;
+}
+#return{
+    color: white;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-inline: 31px;
+}
+#icon9{
+    width: 24px;
+    height: 17px;
+    color: white;
+    margin-top: 20px;
+    margin-inline: -30px;
+}
+#kart{
+    color: white;
+    width: 37px;
+    height: 35px;
+    margin-inline: 52px;
+    margin-top: 0px;
+}
+#cart{
+    color: white;
+    font-size: 22px;
+    margin-inline: -49px;
+    margin-top: 28px;
+}
+#all1{
+    margin-inline: 20px;
+}
+#Bslist{
+    color: white;
+}
+#pall{
+    font-size: 13px;
+    margin-top: 12px;
+    margin-inline: 2px;
+    color: white;
+}
+#best{
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+    margin-inline: 7px;
+}
+#prime{
+    margin-inline: -6px;
+    margin-bottom: 0px;
+    color: white;
+    width: 10px;
+}
+#bes{
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+    margin-inline: 14px;
+}
+#best1{
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+    margin-inline: -4px;
+}
+#best2{
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+    margin-inline: 14px;
+}
+#best3{
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+    margin-inline: -2px;
+}
+#best4{
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+    margin-inline: 10px;
+}
+#cartwidth{
+    width: 28px;
+    height: 24px;
+    margin-left: 43px;
+}
+
+#best5{
+    font-size: 15px;
+    margin-right: -100px;
+    color: white;
+    margin-top: 14px;
+}
+#card1{
+    width: 16rem;
+    height: 21rem;
+}
+#top{
+    font-size: 24px;
+    margin-inline: 13px;
+    margin-top: 10px;
+}
+#acs{
+    width: 72px;
+    height: 72px;
+    margin-inline: 25px;
+}
+#see{
+    font-size: 11px;
+    margin-inline: 24px;
+}
+#washing{
+    width: 72px;
+    height: 72px;
+    margin-inline: 156px;
+    margin-top: -105px;
+}
+#machine{
+    font-size: 10px;
+    margin-left: 155px;
+}
+#tele{
+    width: 72px;
+    height: 72px;
+    margin-inline: 25px;
+}
+#ref{
+    width: 72px;
+    height: 72px;
+    margin-inline: 156px;
+    margin-top: -100px;
+}
+#more{
+    font-size: 13px;
+    margin-top: -7px;
+    margin-left: 26px;
+}
+#card10{
+    width: 238px;
+    height: 132px;
+    
+}
+#in{
+    font-size: 24px;
+    margin-left: 14px;
+}
+#up{
+    width: 205px;
+    margin-left: 16px;
+    background-color: gold;
+    border-radius: 10px;
+    
+}
+#lap{
+    width: 239px;
+    height: 179px;
+    margin-top: -1px;
+    border-radius: 4px;
+}
+#card96{
+    width: 241px;
+    height: 179px;
+    margin-top: -23px;
+}
+#card20{
+    width: 241px;
+    height: 336px;
+    margin-top: 0px;
+}
+#milk{
+    width: 241px;
+    height: 201px;
+    margin-left: 6px;
+    margin-top: -5px;
+}
+#milk0{
+    font-size: 13px;
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+#milk09{
+    font-size: 13px;
+    margin-left: 15px;
+    margin-top: 26px;
+
+}
+#furt{
+    margin-left: 54px;
+}
+#furt1{
+    margin-left: 17px;
+    height: 105px;
+}
+#back{
+    color: white;
+    margin-inline: 487px;
+    font-size: 14px;
+    margin-top: 15px;
+}
+#carousel{
+    height: 206px;    
+}
+#footer{
+    height: 258px;
+    background-color:#232F3E;
+}
+#get2{
+    color: white;
+    margin-inline: 84px;
+    
+    
+
+}
+#a2{
+    color: white;
+    font-size: small;
+    margin-inline: -37px;
+    margin-top: 15px;
+}
+#get3{
+    color: white;
+    margin-inline: 88px;
+}
+#a3{
+    color: white;
+    font-size: small;
+    margin-inline: -37px;
+    margin-top: 15px;
+}
+#get4{
+    color: white;
+    margin-inline: 68px;
+}
+#a4{
+    color: white;
+    font-size: small;
+    margin-inline: -37px;
+    margin-top: 15px;
+}
+#get5{
+    color: white;
+    margin-inline: 89px;
+}
+#a5{
+    color: white;
+    font-size: small;
+    margin-inline: -37px;
+    margin-top: 15px;
+}
+#cardget{
+    width: 18rem;
+    height: 11rem;
+    padding-top: 31px;
+    background-color: #232F3E;
+    border-color: #232F3E;
+    margin-left: -8px;
+}
+#cardget1{
+    width: 18rem;
+    height: 11rem;
+    padding-top: 31px;
+    background-color: #232F3E;
+    border-color: #232F3E;
+    margin-left: -73px;
+}
+#cardget2{
+    width: 23rem;
+    height: 13rem;
+    padding-top: 31px;
+    background-color: #232F3E;
+    border-color: #232F3E;
+    margin-left: -109px;
+}
+#cardget3{
+    width: 24rem;
+    height: 12rem;
+    padding-top: 31px;
+    background-color: #232F3E;
+    border-color: #232F3E;
+    margin-left: -130px;
+}
